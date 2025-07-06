@@ -7,3 +7,53 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.container,
+footer {
+  background-color: #1f2937;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.hero-main-text {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.hero-secondary-text,
+nav ul {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+header .logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+button {
+  color: #3882f6;
+}
+
+.call-to-action {
+  background-color: #3882f6;
+}
+
+.information-header {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-style: italic;
+  font-weight: light;
+  font-size: 36px;
+}
